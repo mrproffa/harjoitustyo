@@ -21,4 +21,4 @@ function addNote() {
 
     //kaikki elementit bodyn sisään
     body.append(h3, h5, p, document.createElement("hr"));
-}
+} 
